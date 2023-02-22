@@ -1,0 +1,12 @@
+.card{
+  
+    width: 150px;
+    background-color: rgba(117, 216, 216, 0.384);
+    border-radius: 5px;
+    padding: 6px;
+    margin-right: 10px;
+   
+}
+h2{
+    background-color: blueviolet;
+}

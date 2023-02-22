@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.add-containar{
+  margin-top: 20px;
+}
+.data-in{
+  display: flex;
+  flex-direction:row;
+
+}
+.data-com-in{
+  
+  display: flex;
+  flex-direction: row;
+}
